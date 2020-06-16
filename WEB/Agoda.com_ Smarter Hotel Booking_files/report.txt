@@ -1,0 +1,310 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="test2.aspx.cs" Inherits="report_2051.test2" %>
+
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://www.agoda.com/zh-tw/account/profile.html# -->
+<html lang="zh-Hant" class="chrome js no-flash no-proximity no-ambientlight applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a batteryapi battery-api blobconstructor blob-constructor contenteditable no-contextmenu cors crypto customelements customprotocolhandler customevent no-dart dataview canvas canvastext emoji eventlistener no-forcetouch fullscreen gamepads geolocation no-hiddenscroll no-htmlimports no-ie8compat intl json ligatures olreversed no-mathml messagechannel notification pagevisibility performance pointerevents pointerlock queryselector quotamanagement requestanimationframe raf serviceworker touchevents typedarrays no-unicoderange unicode no-userdata vibrate video video-ogg video-h264 video-webm video-vp9 no-video-hls no-vml no-webintents webanimations webgl websockets no-xdomainrequest no-hairline exiforientation indexeddb indexeddb-deletedatabase" dir="ltr"><!-- rendered at UTC: Tuesday, June 9, 2020 7:22 AM --><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#  place: http://ogp.me/ns/place#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="./Agoda.com_ Smarter Hotel Booking_files/recaptcha__zh_tw.js.下載"></script>
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="./Agoda.com_ Smarter Hotel Booking_files/profile-df5744b35570.css">
+    <link rel="stylesheet" href="./Agoda.com_ Smarter Hotel Booking_files/mmb.account-8b9ce04e8f2b.css"><link rel="stylesheet" href="./Agoda.com_ Smarter Hotel Booking_files/theme-agoda-b9a84f27882b.css">
+
+<body class=" mmb-profile desktop BAY-7899 CEGHZ-820 DJ-674 FUSION-2854 FUSION-2915 LOY-5169 LOY-5207 MIN-18178 MIN-18390 MIN-18417 MIN-18562 NHAWEB-1392 PACKAGES TEXT-9389 TEXT-97851-B TEXT-9785-B TEXT-9786-B TEXT-9786-U TEXT-9834-B  themed theme-agoda">
+<style>
+    .CookieWarning {
+        position: fixed;
+        top: 0;
+        background: rgba(0, 0, 0, 0.8);
+        z-index: 2000;
+    }
+    
+    .CookieWarning__center {
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+        height: 100vh;
+        width: 100vw;
+    }
+    
+    .CookieWarning__container {
+        width: 400px;
+        background: white;
+        display: inline-block;
+        border-radius: 8px;
+        padding: 20px;
+    }
+    
+    .CookieWarning__title {
+        font-size: 30px;
+        margin: 10px 0;
+    }
+</style>
+
+
+<section id="user-details" class="mmb-panel" data-selenium="mmb-user-details-panel">
+    <h1 data-selenium="mmb-user-details-panel-title">用戶詳細資料</h1>
+
+<section id="mmb-name-component" class="mmb-component" data-selenium="mmb-name-component">
+    <div id="mmb-name-component-display" class="name-gradient-3" data-selenium="mmb-name-component-display">
+        <div id="mmb-name-component-display-avatar" data-selenium="mmb-name-component-display-avatar">            
+<i class="bg-user-icon-3" data-selenium="user-icon" data-user-badge-icon="">
+        <span>V</span>
+
+</i>
+        </div>
+
+        <div id="mmb-name-component-display-name">
+            <h2 data-selenium="mmb-name-component-display-name-label">英文姓名</h2>
+            <span id="mmb-name-component-display-name-value" class="mmb-value-text" data-selenium="mmb-name-component-display-name-value">Ver Sli</span>
+        </div>
+            <div id="mmb-name-component-display-edit">
+                <span id="mmb-name-component-display-edit-label" class="mmb-action-text" data-selenium="mmb-name-component-display-edit-label">編輯</span>
+            </div>
+    </div>
+    <div id="mmb-name-component-change" data-selenium="mmb-name-component-change">
+        <div id="mmb-name-component-change-alert" class="alert alert-danger mmb-alert-component" role="alert">
+            好像出了一點問題 :
+            <i aria-label="Close" id="mmb-name-component-change-alert-close-button" class="close ficon ficon-control-close-circle"></i>
+            <ul>
+                <li id="mmb-profile-firstname-blank" style="display: none;">- 請輸入你的名字（同護照拼音）。</li>
+                <li id="mmb-profile-firstname-wrong-format" style="display: none;">- 名字只能使用英文字母喔，建議與護照相同。</li>
+                <li id="mmb-profile-lastname-blank" style="display: none;">- 請輸入你的姓氏（同護照拼音）。</li>
+                <li id="mmb-profile-lastname-wrong-format" style="display: none;">- 姓氏只能使用英文字母喔，建議與護照相同。</li>
+                <li id="mmb-profile-name-change-failed" style="display: none;">- 抱歉，目前發生技術性問題。</li>
+            </ul>
+        </div>
+
+        <h2 data-selenium="mmb-name-component-change-firstname-label">護照英文名</h2>
+        <input id="mmb-name-component-change-firstname" type="text" class="form-control" value="Ver" placeholder="護照英文名" data-selenium="mmb-name-component-change-firstname-field" maxlength="64">
+
+        <h2 data-selenium="mmb-name-component-change-lastname-label">護照英文姓</h2>
+        <input id="mmb-name-component-change-lastname" type="text" class="form-control" value="Sli" placeholder="護照英文姓" data-selenium="mmb-name-component-change-lastname-field" maxlength="64">
+
+        <div class="mmb-component-buttons">
+            <input id="mmb-name-component-change-cancel" type="button" class="btn btn-blueline" value="取消" data-selenium="mmb-name-component-change-cancel-button">
+
+            <input id="mmb-name-component-change-save" type="button" class="btn btn-primary" value="儲存" data-selenium="mmb-name-component-change-save-button">
+        </div>
+    </div>
+</section>
+
+
+<section id="mmb-email-component" class="mmb-component" data-selenium="mmb-email-component">
+
+    <div id="mmb-email-component-display" class="mmb-email-not-verified-component">
+        <div id="mmb-email-component-display-email" class="mmb-notification-component">
+            <div>
+                <h2 data-selenium="mmb-email-component-display-email-label">電子郵件</h2>
+                <span id="mmb-email-success-notification-component" class="mmb-success-notification-component">
+                    <i class="ficon ficon-right-tick ficon-18"></i>已儲存
+                </span>
+            </div>
+            <div id="mmb-email-component-verify-box" class="mmb-verify-box ">
+                <span class="mmb-verify-link-text">
+                    <i class="ficon ficon-triangle-warning ficon-14"></i>
+                    你的電子信箱尚未完成驗證。
+                </span>
+                <span id="mmb-email-component-display-verify-email-link" class="mmb-verify-link-label" href="#">點此驗證電子信箱</span>
+            </div>
+            <span id="mmb-email-component-display-email-value" data-selenium="mmb-email-component-display-email-value">bc2090@yahoo.com.tw</span>
+            <span id="mmb-email-component-verified-label" class="mmb-hide-verify-label mmb-verify-label">已通過驗證</span>
+        </div>
+    </div>
+
+    
+    <div id="mmb-email-component-sendmail" data-selenium="mmb-email-component-sendmail">
+        <div id="mmb-email-component-sendmail-alert" class="alert alert-danger mmb-alert-component" role="alert">
+            好像出了一點問題 :
+            <i aria-label="Close" id="mmb-email-component-sendmail-alert-close-button" class="close ficon ficon-control-close-circle"></i>
+            <ul>
+                <li id="mmb-profile-email-captcha-incorrect">- 請完成「我不是機器人」驗證程序</li>
+                <li id="mmb-profile-email-sendmail-failed">- 抱歉，目前發生技術性問題。</li>
+            </ul>
+        </div>
+        <div id="mmb-email-component-sendmail-text-wrap">
+            <h5 id="mmb-email-component-sendmail-text" class="mmb-email-component-sendmail-message" data-selenium="mmb-email-component-sendmail-notification">
+
+
+                我們會發送驗證郵件至
+                <span><h6 id="mmb-email-component-sendmail-email">bc2090@yahoo.com.tw</h6></span>
+                ，請依說明完成相關程序。
+            </h5>
+        </div>
+        <div id="mmb-email-component-captcha" class="mmb-captcha" data-selenium="mmb-email-component-captcha">
+
+
+<div class="CAPTCHA-CSS">
+    <div id="email-captcha-panel" class="captcha-container" data-selenium="email-captcha-panel"><div style="width: 304px; height: 78px;"><div><iframe src="./Agoda.com_ Smarter Hotel Booking_files/anchor.html" width="304" height="78" role="presentation" name="a-101ltaxb3o88" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
+    <div id="email-captcha-panel-loading" class="captcha-loading" data-selenium="email-captcha-panel-loading" style="display: none;">
+        <input type="button" value="" class="btn-loading" disabled="">
+    </div>
+    <div id="email-captcha-panel-error" class="captcha-error" data-selenium="email-captcha-panel-error">
+        <p>
+            抱歉，我們無法下載這個表單所需要的驗證碼測試。
+        </p>
+        <a>
+            請點此重新下載驗證碼。
+        </a>
+    </div>
+    <div id="email-captcha-validator-error" class="captcha-feedback-warning" data-selenium="email-captcha-validator-error">
+        請完成上方驗證程序。
+    </div>
+</div>
+        </div>
+        <div class="mmb-component-buttons">
+            <input id="mmb-email-component-sendmail-cancel" type="button" class="btn btn-blueline" value="取消" data-selenium="mmb-email-component-sendmail-cancel">
+            <input id="mmb-email-component-sendmail-send" type="button" class="btn btn-primary" value="發送驗證郵件" data-selenium="mmb-email-component-sendamil-send">
+        </div>
+    </div>
+
+    
+    <div id="mmb-email-component-resendmail" data-selenium="mmb-email-component-resendmail">
+        <div id="mmb-email-component-resendmail-notification-wrap">
+            <h5 id="mmb-email-component-resendmail-notification" class="mmb-email-component-resendmail mmb-email-component-resendmail-message" data-selenium="mmb-email-component-sendmail-notification">
+
+
+                已發送驗證郵件至
+                <span><h6 id="mmb-email-component-sendmail-email">bc2090@yahoo.com.tw</h6></span>
+                ，請根據郵件內容說明完成驗證程序。如果沒有收到郵件，
+                <span id="mmb-email-component-resendmail-resend-link" class="mmb-email-component-sendmail-resend" tabindex="0" data-selenium="mmb-email-component-resendmail-resend-link">請點此重新發送！</span>
+            </h5>
+        </div>
+    </div>
+</section>
+
+
+<section id="mmb-phone-component" class="mmb-component" data-selenium="mmb-phone-component">
+    <!------------ STEP 0 ------------>
+
+
+    <div id="mmb-phone-component-display" class="mmb-phone-verified-component">
+        <div id="mmb-phone-component-display-phone" class="mmb-notification-component">
+            <div>
+                <h2 id="mmb-phone-component-display-phone-label">電話號碼</h2>
+                <span id="mmb-phone-success-notification-component" class="mmb-success-notification-component">
+                    <i class="ficon ficon-right-tick ficon-18"></i>已儲存
+                </span>
+            </div>
+
+                <div id="mmb-phone-component-verify-box" class="mmb-verify-box mmb-hide-verify-box">
+                    <span class="mmb-verify-link-text">
+                        <i class="ficon ficon-triangle-warning ficon-14"></i>
+                        你的電話號碼尚未通過驗證
+                    </span>
+                    <span id="mmb-phone-component-verify-phone-link" class="mmb-verify-link-label" href="#" data-element-name="mmb-account-verify-phone-link">驗證電話號碼</span>
+                </div>
+                <span id="mmb-phone-component-display-phone-value" data-selenium="mmb-phone-component-display-phone-value"></span>
+                <span id="mmb-phone-component-verified-label" class="mmb-hide-verify-label mmb-verify-label">已通過驗證</span>
+            </div>
+            <div id="mmb-phone-component-display-edit">
+                    <span id="mmb-phone-component-display-add-label" class="mmb-action-text" data-element-name="mmb-account-verify-phone-add" data-selenium="mmb-phone-component-display-add-label">新增</span>
+                    <span id="mmb-phone-component-display-edit-label" class="mmb-action-text" data-selenium="mmb-phone-component-display-edit-label" style="display: none;">編輯</span>
+            </div>
+    </div>
+
+    
+    <div id="mmb-phone-component-change" data-selenium="mmb-phone-component-change">
+        
+
+        
+
+        <h2 data-selenium="mmb-phone-component-change-phonenumber-label">電話號碼</h2>
+        <input id="mmb-phone-component-change-phonenumber" type="text" class="form-control" placeholder="電話號碼" data-selenium="mmb-phone-component-change-phonenumber-field" maxlength="16">
+
+        <div class="mmb-component-buttons">
+            <input id="mmb-phone-component-change-cancel" type="button" class="btn btn-blueline" data-element-name="mmb-account-verify-phone-edit-cancel" value="取消" data-selenium="mmb-phone-component-change-cancel-button">
+
+            <input id="mmb-phone-component-change-save" type="button" class="btn btn-primary" data-element-name="mmb-account-verify-phone-edit-save" value="繼續" data-selenium="mmb-phone-component-change-save-button">
+        </div>
+    </div>
+
+    
+    <div id="mmb-phone-component-sendotp" data-selenium="mmb-phone-component-sendotp">
+        
+
+
+        <div class="mmb-component-buttons">
+            <input id="mmb-phone-component-sendotp-cancel" type="button" class="btn btn-blueline" data-element-name="mmb-account-verify-phone-sendotp-cancel" value="取消" data-selenium="mmb-phone-component-sendotp-cancel">
+                <input id="mmb-phone-component-sendotp-dont-verify" type="button" class="btn btn-blueline" data-element-name="mmb-account-verify-phone-sendotp-dont-verify" value="儲存但不進行驗證" data-selenium="mmb-phone-component-sendotp-dontsend">
+
+                <input id="mmb-phone-component-sendotp-send" type="button" class="btn btn-primary  " data-element-name="mmb-account-verify-phone-sendotp-send" value="發送驗證碼" data-selenium="mmb-phone-component-sendotp-send">
+                <input id="mmb-phone-component-sendotp-send-for-phone-number-verification" type="button" class="btn btn-primary" value="發送驗證碼" data-selenium="mmb-phone-component-sendotp-send">
+        </div>
+    </div>
+
+    
+    <div id="mmb-phone-component-otp-verification" data-selenium="mmb-phone-component-otp-verification">
+        
+        <div>            
+                       
+            
+           
+        </div>
+    </div>
+</section>
+
+
+
+<section id="mmb-password-component" class="mmb-component mmb-notification-component" data-selenium="mmb-password-component">
+    <div id="mmb-password-component-display">
+        <div id="mmb-password-component-display-password">
+            <div>
+                <h2 data-selenium="mmb-password-component-display-password-label">密碼</h2>
+                <span id="mmb-password-success-notification-component" class="mmb-success-notification-component">
+                    <i class="ficon ficon-right-tick ficon-18"></i>已儲存
+                </span>
+            </div>
+            <span id="mmb-password-component-display-password-value" data-selenium="mmb-password-component-display-password-value">●●●●●●●●●●</span>
+        </div>
+        <div id="mmb-password-component-display-edit">
+            <span id="mmb-password-component-display-edit-label" class="mmb-action-text" data-selenium="mmb-password-component-display-edit-label">編輯</span>
+        </div>
+    </div>
+    <div id="mmb-password-component-change" data-selenium="mmb-password-component-change">
+        <div id="mmb-password-component-change-alert" class="alert alert-danger mmb-alert-component" role="alert">
+            好像出了一點問題 :
+            <i aria-label="Close" id="mmb-password-component-change-alert-close-button" class="close ficon ficon-control-close-circle"></i>
+            <ul>
+                <li id="mmb-profile-current-password-blank">- 請輸入目前密碼。</li>
+                <li id="mmb-profile-current-password-incorrect">- 密碼輸入錯誤，請輸入目前的密碼。</li>
+                <li id="mmb-profile-new-password-blank">- 請輸入新密碼。</li>
+                <li id="mmb-profile-new-password-short">- 新密碼最少須有8個字元！</li>
+                <li id="mmb-profile-confirm-password-blank">- 請確認你的新密碼。</li>
+                <li id="mmb-profile-new-password-not-match">- 你輸入的密碼不符，請確認你兩次輸入的密碼都一致。</li>
+                <li id="mmb-profile-password-change-failed">- 抱歉，目前發生技術性問題。</li>
+                <li id="mmb-profile-password-cannot-reuse">- 基於安全考量，您不能使用重複的密碼。</li>
+            </ul>
+        </div>
+
+        <h2 data-selenium="mmb-password-component-change-currentpassword-label">目前密碼</h2>
+        <input id="mmb-password-component-change-currentpassword" type="password" class="form-control" value="" placeholder="目前密碼" data-selenium="mmb-password-component-change-currentpassword-field" maxlength="64">
+
+        <h2 data-selenium="mmb-password-component-change-newpassword-label">新密碼</h2>
+        <input id="mmb-password-component-change-newpassword" type="password" class="form-control" value="" placeholder="新密碼" data-selenium="mmb-password-component-change-newpassword-field" maxlength="64">
+
+        <h2 data-selenium="mmb-password-component-change-confirmnewpassword-label">確認新密碼</h2>
+        <input id="mmb-password-component-change-confirmnewpassword" type="password" class="form-control" value="" placeholder="確認新密碼" data-selenium="mmb-password-component-change-confirmnewpassword-field" maxlength="64">
+
+        <div class="mmb-component-buttons">
+            <input id="mmb-password-component-change-cancel" type="button" class="btn btn-blueline" value="取消" data-selenium="mmb-password-component-change-cancel-button">
+
+            <input id="mmb-password-component-change-save" type="button" class="btn btn-primary" value="儲存" data-selenium="mmb-password-component-change-save-button">
+        </div>
+
+    </div>
+</section>
+
+
+
+</section>
+
+
+    

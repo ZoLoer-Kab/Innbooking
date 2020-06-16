@@ -10,7 +10,7 @@ namespace WebF
 {
     public class MvcApplication : System.Web.HttpApplication
     {
-        public static String ConnectionString = "ReservationConnectionString-wang";
+        public static String ConnectionString = "ReservationConnectionStringccc";
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();

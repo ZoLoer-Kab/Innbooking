@@ -93,7 +93,8 @@
                                     </a>
                                         <a class="nav-link" href="login.aspx">Login</a>
                                         <a class="nav-link" href="Member.aspx">Member Data</a>
-                                        <a class="nav-link" href="RQuery_check.aspx">Order Tracking</a>
+                                        <a class="nav-link" href="report_cha2.aspx">Order Tracking</a>
+                                        <a class="nav-link" href="report_cha.aspx">Members Only</a>
                                         <div class="sb-sidenav-collapse-arrow"><i class=""></i></div>
 
 <!--                                      <a class="nav-link collapsed" href="Register.aspx" data-toggle="collapse" data-target="#pagesCollapseError" aria-expanded="true" aria-controls="pagesCollapseError"

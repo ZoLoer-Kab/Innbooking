@@ -84,6 +84,7 @@
                                         <a class="nav-link" href="login.aspx">Login</a>
                                         <a class="nav-link" href="Member.aspx">Member Data</a>
                                         <a class="nav-link" href="RQuery_check.aspx">Order Tracking</a>
+                                        <a class="nav-link" href="report_cha.aspx"> Members Only</a>
                                         <div class="sb-sidenav-collapse-arrow"><i class=""></i></div>
 <!--                                    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#pagesCollapseAuth" aria-expanded="true" aria-controls="pagesCollapseAuth"
                                         >Member Data
